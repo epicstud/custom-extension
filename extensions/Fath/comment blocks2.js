@@ -9,10 +9,10 @@ class CommentBlocks {
     this.runtime = runtime;
     this._formatMessage = runtime.getFormatMessage({
       'zh-cn': {
-        'CmntExt.extensionName': '注释块',
+        'CmntExt.extensionName': 'CM',
       },
       en: {
-        'CmntExt.extensionName': 'Comment blocks',
+        'CmntExt.extensionName': 'CM',
       },
     });
   }
